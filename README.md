@@ -2,4 +2,4 @@
 Este projeto é referente a UC11
 
 ## Tecnologias Utilizadas
-Java, MySQL
+Java, MySQL...
